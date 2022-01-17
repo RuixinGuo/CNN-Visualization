@@ -1,6 +1,6 @@
 # LeNet5-MNIST-PyTorch
 
-This program is modified from [ChawDoe/LeNet5-MNIST-PyTorch](https://github.com/ChawDoe/LeNet5-MNIST-PyTorch). I added a visualization program to visualize: 1) the outputs of intermediate layers and 2) the parameters of filters.
+This program is modified from [ChawDoe/LeNet5-MNIST-PyTorch](https://github.com/ChawDoe/LeNet5-MNIST-PyTorch). I added visualization codes to visualize: 1) the outputs of intermediate layers and 2) the parameters of filters.
 
 This is not a complete copy of [ChawDoe/LeNet5-MNIST-PyTorch](https://github.com/ChawDoe/LeNet5-MNIST-PyTorch). You can add my code **train_gpu.py** and **visual.py** to the original repository so it can work.
 
